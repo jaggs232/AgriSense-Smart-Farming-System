@@ -67,12 +67,3 @@ Serial Output:
 
 
 
-Credits:
-
-~ Jaganathan V
-
-~ Mrithula R
-
-~ Lacshan KK
-
-~ Keerthivasan A
